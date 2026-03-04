@@ -2,7 +2,7 @@
 
 ## 🚀 Abrir Proyecto
 
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)](https://colab.research.google.com/drive/1sWhZUxDztLomxg2nEfTWwUuOpO8fYBg5#scrollTo=NnCyTJMGvrnm)) 
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)](https://colab.research.google.com/drive/1sWhZUxDztLomxg2nEfTWwUuOpO8fYBg5#scrollTo=NnCyTJMGvrnm)
 [![Trello Board](https://img.shields.io/badge/View%20Project-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/b/Vq1Dtqny/telecomxparte2aula-latam-oracle)
 
 
