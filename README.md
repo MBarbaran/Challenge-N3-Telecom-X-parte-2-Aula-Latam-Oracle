@@ -12,7 +12,7 @@ Este proyecto corresponde a la Parte 2 del Challenge Telecom X, enfocado en el d
 
 A partir de un dataset previamente limpiado en la Parte 1, se realizó la preparación de datos, análisis de variables relevantes, entrenamiento de modelos de clasificación y evaluación de su desempeño.
 
-El objetivo fue identificar los factores que influyen en la baja de clientes y generar información útil para la toma de decisiones estratégicas.
+El objetivo fue identificar los factores que influyen en la baja de clientes y generar información útil para la toma de decisiones estratégicas. 
 
 ---
 
